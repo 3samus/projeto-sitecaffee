@@ -128,7 +128,7 @@ section {
     width: 50%;
 }
 .text{
-    background-color:rgba(131, 53, 41, 0.763);
+    background-color: var(--tpm);
     padding: 50px;
 }
 .text h2, .text p{
